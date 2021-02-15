@@ -1,3 +1,5 @@
+// https://www.codewars.com/kata/56b29582461215098d00000f/train/javascript
+
 let sample = [1, 4, 6, 8, 22];
 
 function pipeFix(numbers) {
