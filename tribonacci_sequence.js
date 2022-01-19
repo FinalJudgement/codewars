@@ -9,11 +9,9 @@ function tribonacci(signature, n) {
       arr.push(signature[arr.length]);
       currentNum++;
     } else {
-      console.log(arr);
       arr.push(arr[currentNum - 1] + arr[currentNum - 2] + arr[currentNum - 3]);
       currentNum++;
     }
   }
-
   return arr;
 }
