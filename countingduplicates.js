@@ -13,7 +13,6 @@ function duplicateCount(text) {
       count++;
     }
   }
-  console.log(count);
   return count;
 }
 
@@ -29,5 +28,3 @@ function letterCount(str) {
   }
   return o;
 }
-
-duplicateCount("Indivisibility");
