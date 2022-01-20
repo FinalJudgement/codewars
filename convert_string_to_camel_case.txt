@@ -1,0 +1,13 @@
+//https://www.codewars.com/kata/517abf86da9663f1d2000003/train/javascript
+
+function toCamelCase(str){
+  let letterArr = str.split('');
+  
+//   for(let i = 0; i < letterArr.length; i++){
+//     if(letterArr[0] == letterArr[0].toUpperCase){
+      
+//     }else{
+      
+//     }
+  }
+}
